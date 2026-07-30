@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+out_*_barcodes.csv
+out_*_barcodes.png
+.DS_Store

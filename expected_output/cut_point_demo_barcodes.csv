@@ -1,0 +1,14 @@
+vertex,summand,sigma,q,birth,death,essential
+connector,del,{},1,0,1,no
+connector,del,{},1,0,1,no
+connector,del,{},1,0,1,no
+connector,del,{},1,0,1,no
+connector,del,{},1,0,1,no
+connector,del,{},1,0,1,no
+connector,del,{},1,0,5,no
+connector,del,{},2,1,1.41421,no
+connector,del,{},2,1,1.41421,no
+connector,del,{},2,5,5.09902,no
+connector,link,{},0,0,2.54951,no
+connector,link,{},1,2.54951,5,no
+connector,link,{},2,5,5.09902,no
