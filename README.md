@@ -103,14 +103,6 @@ to a face at *i* (`--sigma all` computes them; default is `{}` only).
 | `--exact` | independent exact (rational) backend, for small inputs |
 | `--self-test` | reproduce every explicit bar in the paper and exit |
 
-## Correctness
-
-`python3 test_plc.py` runs 12 acceptance checks: the paper's example
-bar-for-bar (including the nonempty-sigma assertion), agreement of the
-fast finite-field backend with the independent exact rational backend on
-random inputs over the full sigma collection, two-prime certification,
-the stability theorem verified numerically, static dimensions against
-direct Betti-number computation, and input validation.
 
 ## Files
 
@@ -126,7 +118,7 @@ direct Betti-number computation, and input validation.
 
 ## Citation
 
-If you use this code, please cite the paper (He–Wei, *Persistent Local
+If you use this code, please cite the paper (He–Suwayyid-Wei, *Persistent Local
 Cohomology of Stanley–Reisner Rings at Vertex Primes*).
 
 ## License
